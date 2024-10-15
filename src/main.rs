@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, Ulukay!");
+    println!("PUBG sucks");
+    println!("Hello, Mr. Ulukay!");
 }
